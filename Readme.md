@@ -33,11 +33,11 @@ yarn install
 expo start
 
 ## Project Structure 📂
-assets/          # Contains all profile and story images
-components/      # Reusable components (Story viewer)
-screens/         # Screen components (Home)
-navigation/      # Navigation configuration
-stories.js       # Mock data for users/stories
-App.js           # Main entry point
-eas.json         # Expo build configuration
+assets  Contains all profile and story images
+components   Reusable components (Story viewer)
+screens      Screen components (Home)
+navigation   Navigation configuration
+stories.js     Mock data for users/stories
+App.js    Main entry point
+eas.json       Expo build configuration
 
