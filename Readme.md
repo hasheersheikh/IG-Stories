@@ -15,7 +15,7 @@ React Native app mimicking Instagram's stories feature with swipe navigation and
 ## Screenshots
 
 ### Demo Video
-[![Watch the demo](screenshots/demo-thumb.png)](https://youtu.be/your-video-id)
+[![Watch the demo](screenshots/demo-thumb.png)](https://youtube.com/shorts/Yu_NEsGTWW0?feature=share)
 
 ### Home Screen
 ![Home Screen](screenshots/home-screen.png)
