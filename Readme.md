@@ -14,14 +14,14 @@ React Native app mimicking Instagram's stories feature with swipe navigation and
 
 ## Screenshots
 
+### Demo Video
+[![Watch the demo](screenshots/demo-thumb.png)](https://youtu.be/your-video-id)
+
 ### Home Screen
 ![Home Screen](screenshots/home-screen.png)
 
 ### Story Viewer
 ![Story Viewer](screenshots/story-view.png)
-
-## Demo
-[![Watch Demo](screenshots/demo-thumbnail.jpg)](screenshots/demo.mp4)
 
 ## Installation 🛠️
 1. Clone the repository:
